@@ -1,4 +1,3 @@
-
 .git/
 .1024.nix
 .1024feature*
@@ -10,3 +9,11 @@ core.*
 .breakpoints
 .idea/
 .vscode/
+node_modules/
+# Clacky-provided ignore rules
+dist/
+public/
+*.log
+.env
+.DS_Store
+npm-debug.log*
