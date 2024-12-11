@@ -7,3 +7,4 @@ first pass at an avatar animation for my personal portfolio
 # test
 
 aa
+npm 
